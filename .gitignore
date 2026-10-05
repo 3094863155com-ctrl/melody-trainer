@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node.js
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# 注意：绝不能写 *.mp3 或 音源/ —— 音源/ 里的人声唱名采样是线上运行必需的
